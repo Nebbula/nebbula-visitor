@@ -1,0 +1,23 @@
+{
+  "name": "nebbula-visitor",
+  "version": "1.0.0",
+  "description": "Nebbula Visitor module",
+  "main": "src/Visitor.js",
+  "directories": {
+    "src": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nebbula/nebbula-visitor.git"
+  },
+  "keywords": [
+    "ast",
+    "nebbula",
+    "visitor"
+  ],
+  "author": "Giovanny Andres Gongora Granada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nebbula/nebbula-visitor/issues"
+  }
+}
